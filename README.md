@@ -1,4 +1,4 @@
-**AI Secure Log Analyzer**
+**Security Log Analyzer**
 
   A full-stack security tool that analyzes logs and detects sensitive data such as emails, passwords, and API keys. It evaluates risk levels and provides actionable insights.
 
